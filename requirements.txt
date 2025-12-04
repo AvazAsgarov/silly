@@ -1,7 +1,9 @@
 streamlit
+streamlit-webrtc
 opencv-python
 mediapipe
 numpy
 Pillow
-streamlit-webrtc
 av
+aiortc
+os
